@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jonnamaatta
-- 🌱 I study Information Systems at JYU
+- 📚 I study Information Systems at JYU
 
 <!---
 jonnamaatta/jonnamaatta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
